@@ -5,3 +5,4 @@ pandas>=2.0,<3
 numba>=0.61,<1
 torch>=2.8,<2.13
 spaces>=0.30
+scipy>=1.11,<2
