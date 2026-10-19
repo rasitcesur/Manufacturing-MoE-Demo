@@ -1,0 +1,18 @@
+{
+  "mode": "cnc_milling",
+  "operation": "tapping",
+  "orientation": "vertical",
+  "tool_axis": "Z",
+  "machine_type": "vertical_hole_machine",
+  "hidden_work_material": "CAST_IRON",
+  "hidden_tool_material": "HSS",
+  "hidden_tool_coating": false,
+  "hidden_diameter_mm": 8.74642,
+  "hidden_pilot_diameter_mm": 7.2464200000000005,
+  "hidden_accel_mm_s2": 690.0,
+  "hole_depth_mm": 19.61701,
+  "hole_count": 14,
+  "pitch_mm": 1.5,
+  "tap_form": false,
+  "not_linuxcnc_runtime": true
+}

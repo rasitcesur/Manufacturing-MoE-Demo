@@ -1,0 +1,18 @@
+{
+  "mode": "cnc_milling",
+  "operation": "drilling",
+  "orientation": "horizontal",
+  "tool_axis": "X",
+  "machine_type": "horizontal_hole_machine",
+  "hidden_work_material": "CAST_IRON",
+  "hidden_tool_material": "HSS",
+  "hidden_tool_coating": false,
+  "hidden_diameter_mm": 10.35923,
+  "hidden_pilot_diameter_mm": 0.0,
+  "hidden_accel_mm_s2": 690.0,
+  "hole_depth_mm": 17.19803,
+  "hole_count": 5,
+  "pitch_mm": 0.0,
+  "tap_form": false,
+  "not_linuxcnc_runtime": true
+}

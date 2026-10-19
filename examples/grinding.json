@@ -1,0 +1,20 @@
+{
+  "mode": "cnc_grinding",
+  "operation": "grinding",
+  "grinding_type": "surface_reciprocating",
+  "material": "C45",
+  "wheel_type": "ALUMINA",
+  "wheel_diameter_mm": 150.0,
+  "wheel_width_mm": 8.0,
+  "wheel_rpm": 3169.0,
+  "table_feed_mm_min": 7950.0,
+  "total_depth_mm": 0.014156,
+  "passes": 3,
+  "tracks": 4,
+  "stroke_mm": 73.0843,
+  "sparkout": true,
+  "rapid_mm_min": 6800.0,
+  "accel_mm_s2": 420.0,
+  "machine_id": "GRIND_TEST_M000",
+  "firmware": "custom_surface_grinding_surrogate_not_linuxcnc"
+}

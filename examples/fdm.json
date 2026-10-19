@@ -1,0 +1,33 @@
+{
+  "accel_print": 400.0,
+  "accel_travel": 700.0,
+  "ambient": 25.575064679984422,
+  "bed_start": 25.575064679984422,
+  "bed_target": 55.0,
+  "fan_start": 0.0,
+  "jerk": 5.0,
+  "nozzle_start": 25.575064679984422,
+  "nozzle_target": 190.0,
+  "power_hardware": {
+    "bed_cap_j_c": 656.4459685298566,
+    "bed_loss_w_c": 2.0896191445143097,
+    "bed_w": 226.1867216627696,
+    "e_motor_w_at_5": 3.7741353292099165,
+    "electronics_w": 13.71809128349746,
+    "hotend_fan_w": 2.48755945202466,
+    "nozzle_cap_j_c": 24.603340964298923,
+    "nozzle_loss_w_c": 0.12863960246243478,
+    "nozzle_w": 40.61270209794421,
+    "part_fan_w": 2.2594530186884354,
+    "psu_factor": 1.0,
+    "stepper_hold_w": 9.392075425029589,
+    "x_motor_w_at_60": 3.9036565007542814,
+    "y_motor_w_at_60": 3.7715495791657516,
+    "z_motor_w_at_5": 1.9566925001128683
+  },
+  "power_model_provenance": "SYNTHETIC_COMPONENT_TEACHER_V8_UNCALIBRATED",
+  "program_id": "P0008",
+  "start_x": 109.53492281817636,
+  "start_y": 109.4239465365399,
+  "start_z": 0.2
+}

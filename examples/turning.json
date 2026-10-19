@@ -1,0 +1,18 @@
+{
+  "mode": "cnc_turning",
+  "machine_type": "generic_2axis_lathe",
+  "firmware": "analytic_surrogate_not_linuxcnc",
+  "controller_dialect": "linuxcnc_restricted_G94_G97_G7",
+  "rapid_mm_min": 5400.0,
+  "accel_mm_s2": 650.0,
+  "spindle_nominal_rpm": 2771.528,
+  "stock_diameter_mm": 93.2778,
+  "final_diameter_mm": 85.5562,
+  "turn_length_mm": 159.2361,
+  "num_passes": 2,
+  "pass_depth_radial_mm": 1.9304,
+  "material": "AL6061",
+  "coolant_enabled": true,
+  "stock_density_g_mm3": 0.0027,
+  "cutting_specific_energy_J_mm3": 0.7
+}

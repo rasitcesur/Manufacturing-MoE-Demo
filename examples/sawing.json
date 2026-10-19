@@ -1,0 +1,21 @@
+{
+  "mode": "cnc_sawing",
+  "operation": "sawing",
+  "saw_type": "continuous_band_cutoff",
+  "stock_shape": "rectangular",
+  "material": "C45",
+  "width_mm": 120.0,
+  "height_mm": 50.0,
+  "kerf_mm": 1.47787,
+  "blade_type": "BIMETAL_M42",
+  "tpi": 6.0,
+  "band_speed_m_min": 57.0,
+  "feed_mm_min": 116.0,
+  "rapid_mm_min": 4800.0,
+  "accel_mm_s2": 310.0,
+  "segments": 4,
+  "pause_midcut": true,
+  "equivalent_blade_mass_kg": 4.0,
+  "machine_id": "SAW_TEST_M000",
+  "firmware": "research_band_saw_surrogate_not_LinuxCNC"
+}

@@ -1,0 +1,12 @@
+{
+  "machine_type": "simulated_3axis_mill",
+  "mode": "cnc_milling",
+  "firmware": "independent_analytic_surrogate",
+  "rapid_mm_min": 6000.0,
+  "feed_max_mm_min": 5000.0,
+  "accel_mm_s2": 600.0,
+  "spindle_nominal_rpm": 7567.574,
+  "tool_diameter_mm": 3.0,
+  "material": "AL6061",
+  "cut_depth_mm": 0.629
+}
